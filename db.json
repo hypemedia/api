@@ -1,5 +1,5 @@
 {
-  "status": [
+  "status":
     {
       "status": "sucess",
       "OrderId": 473230,
@@ -16,8 +16,7 @@
         "licensePlate": null,
         "status_depunere": null
       }
-    }
-  ],
+    },
   "profile": {
     "name": "typicode"
   }
