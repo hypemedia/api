@@ -1,24 +1,22 @@
 {
   "status": [
     {
-
-    "status": "sucess",
-    "OrderId": 473230,
-    "DITL": {
+      "status": "sucess",
+      "OrderId": 473230,
+      "DITL": {
         "resolved": false,
-        "date_finalizare":null,
+        "date_finalizare": null,
         "date_depunere": "2020-05-06T00:00:00",
         "status_depunere": "depus"
-    },
-    "DRPCIV": {
+      },
+      "DRPCIV": {
         "resolved": false,
         "date_finalizare": null,
         "date_depunere": null,
         "licensePlate": null,
         "status_depunere": null
+      }
     }
-}
-
   ],
   "profile": {
     "name": "typicode"
